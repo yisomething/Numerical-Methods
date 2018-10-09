@@ -1,5 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%Exercise 1 of lab2
+% Exercise 1 of lab2
+% Reference:
+%https://www.mathworks.com/matlabcentral/answers/13310-creating-f
+%ew-columns-of-the-vandermonde-matrix-without-using-vander 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % error_x is the error between the interpolated y value and the ground-truth on X
 % error_x_new is the error between the interpolated y and the ground-truth on X_new
@@ -27,6 +30,7 @@ for i= 1:length(m)
 
     subplot(2,2,i), plot(x_new, y_sin, 'r.', x_new, y_new, 'b-');
     title(['m=',num2str(m(i)),' n=',num2str(n(i))]);
+    hold off
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function Y_new=polynomial_interp(X,Y,X_new,n) 
