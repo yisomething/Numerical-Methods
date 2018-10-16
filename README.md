@@ -1,6 +1,6 @@
 # cmput-340
 http://ugweb.cs.ualberta.ca/~vis/courses/num/index340.htm
-Intro and error analysis: Basic error analysis and propagation. Know how to apply this for the problems in the subsequent chapters.\n
+Intro and error analysis: Basic error analysis and propagation. Know how to apply this for the problems in the subsequent chapters.<br/>
 Linear equation systems.
 Overdetermined linear system.
 Interpolation
