@@ -25,7 +25,7 @@ for i = 1:64
 end
 
 
-%%%%%%%%%%%%%%%%%%%%% change b (size and sign) %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%% change b (value and sign) %%%%%%%%%%%%%%%%%%%%%%%%%%
 f2 = figure();
 % cos2bx = cosbx^2 - sinbx^2 = Y(1,:)^2 - Y(2,:)^2
 % sin2ax = 2sinbx * cosbx =2*Y(1,:)*Y(2,:)
