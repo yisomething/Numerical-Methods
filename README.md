@@ -1,7 +1,7 @@
 # cmput-340
 ## environment: 
 matlab2018a <br/>
-## [install link](https://ualberta.onthehub.com/WebStore/OfferingDetails.aspx?o=ab4b4e92-94e1-e611-9425-b8ca3a5db7a1) <br/>
+## [install link(via ualberta webstore)](https://ualberta.onthehub.com/WebStore/OfferingDetails.aspx?o=ab4b4e92-94e1-e611-9425-b8ca3a5db7a1) <br/>
 
 ## [course page](http://ugweb.cs.ualberta.ca/~vis/courses/num/index340.htm)<br/>
 ## [notes](http://cis.poly.edu/~mleung/CS4744/f04/Heath/) <br/>
