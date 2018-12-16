@@ -1,7 +1,7 @@
 # cmput-340 Numerical Methods
 
 # environment: 
-* matlab2018a <br/>
+* `matlab2018a` <br/>
  [install link(via ualberta webstore)](https://ualberta.onthehub.com/WebStore/OfferingDetails.aspx?o=ab4b4e92-94e1-e611-9425-b8ca3a5db7a1) 
 
 
