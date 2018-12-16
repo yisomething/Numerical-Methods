@@ -24,4 +24,4 @@
 
 # FYI
 More details can be found in [course page](http://ugweb.cs.ualberta.ca/~vis/courses/num/index340.htm).<br/>
-Its also good to make use of some notes from [here](http://cis.poly.edu/~mleung/CS4744/f04/Heath/) 
+Its also good to make use of some notes from [here](http://cis.poly.edu/~mleung/CS4744/f04/Heath/). 
