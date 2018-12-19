@@ -1,4 +1,8 @@
-# cmput-340 Numerical Methods
+# Numerical Methods
+The study of computational methods for solving problems in linear algebra, non-linear equations,
+optimization, interpolation and approximation, and integration. This course will
+provide a basic foundation in numerical methods that supports further study in
+machine learning; computer graphics, vision and multimedia; robotics;
 
 # environment: 
 * `matlab2018a` <br/>
