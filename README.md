@@ -7,7 +7,8 @@ machine learning; computer graphics, vision and multimedia; robotics;
 # environment: 
 * `matlab2018a` <br/>
  [install link(via ualberta webstore)](https://ualberta.onthehub.com/WebStore/OfferingDetails.aspx?o=ab4b4e92-94e1-e611-9425-b8ca3a5db7a1) 
-
+# book:
+* Scientific Methods An Introductory Survey second edition, Michael T Health
 
 # topics 
 * ## Numerical Computing basics :<br/>
