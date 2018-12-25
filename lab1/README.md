@@ -11,6 +11,7 @@
 some basic image processing: gray scale, get user click,</br>
 contrast and brightness images, blur the image </br>
 `run: click space once a image shows. for the pop out figure, select a region` </br>
+![image](image.jpg)
 
 
 ## exercise 2: 
