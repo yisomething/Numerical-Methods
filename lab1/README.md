@@ -31,7 +31,7 @@ mri_c1.mat
 * ex2.4 </br>
 Given a matrix A and b, we first do LU factorization. We call emimMat to get M1 M2 m2 .. and L1L2l3... And then we get L and U. We use forward subsitituion to get y, Lb = y. regard y as new b, use backward subsititution to get x by Ux =b. we solved x finally. 
 
-*3a.</br> 
+* 3a.</br> 
 The overdetermined system is better because it used more equations to
   % make data more precise. 
   
