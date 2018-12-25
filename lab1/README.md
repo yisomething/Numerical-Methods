@@ -28,6 +28,7 @@ using backward,forward subsitution and LU method to solve system
 char_c1.mat
 mri_c1.mat
 </br> transfer data into image
+![science](science.jpg)
 
 		
 		
