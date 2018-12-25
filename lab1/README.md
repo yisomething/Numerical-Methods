@@ -1,5 +1,5 @@
 # This is written document for lab1. cmput340
-# author Yiyang Wang
+## author Yiyang Wang
 
 ## exercise 1 : 
 * e1.m </br>
