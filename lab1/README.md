@@ -7,9 +7,9 @@
  Vectorized code runs faster because it doesnt contains loops, and it has shorter lines.
 
 * e2.m  hi.jpg </br>
-`run: click space once a image shows. for the pop out figure, select a region` </br>
 some basic image processing: gray scale, get user click,</br>
-contrast and brightness images, blur the image
+contrast and brightness images, blur the image </br>
+`run: click space once a image shows. for the pop out figure, select a region` </br>
 
 
 ## exercise 2: ex2.m
