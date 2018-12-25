@@ -3,7 +3,7 @@
 
 ## exercise 1 : 
 * e1.m </br>
-` vectorize the for loop and compare the time `
+` vectorize the for loop and compare the time `</br>
 ` Vectorized code runs faster because it doesnt contains loops, and it has shorter lines.`
 
 * e2.m  hi.jpg </br>
@@ -11,13 +11,14 @@
 `contrast and brightness images, blur the image`
 
 
+## exercise 2: ex2.m
+* fwdSubst.m
+* bwdSubst.m
+* elimMat.m
+* myLU.m
+* test_ex2.m
 
-    exercise 2: ex2.m
-	     	fwdSubst.m
-	     	bwdSubst.m
-	    	elimMat.m
-	   	myLU.m
-	    	test_ex2.m
+## Q&A
 ex2 4 . Given a matrix A and b, we first do LU factorization. We call emimMat to get M1 M2 m2 .. and L1L2l3... And then we get L and U. We use forward subsitituion to get y, Lb = y. regard y as new b, use backward subsititution to get x by Ux =b. we solved x finally. 
 
 
