@@ -1,4 +1,4 @@
-# This is written document for lab1. cmput340
+# This is written document for lab2. 
 
 `Yiyang Wang`
 
