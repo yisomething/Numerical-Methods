@@ -1,12 +1,16 @@
 # This is written document for lab1. cmput340
 # author Yiyang Wang
 
-## for exercise 1 : 
+## exercise 1 : 
 * e1.m
-' vectorize the for loop and compare the time '
-' Vectorized code runs faster because it doesnt contains loops, and it has shorter lines.'
-* e2.m
-* hi.jpg
+` vectorize the for loop and compare the time `
+` Vectorized code runs faster because it doesnt contains loops, and it has shorter lines.`
+
+* e2.m  hi.jpg
+`some basic image processing: gray scale, get user click
+,contrast and brightness images, blur the image`
+
+
 
     exercise 2: ex2.m
 	     	fwdSubst.m
