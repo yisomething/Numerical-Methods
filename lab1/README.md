@@ -1,11 +1,12 @@
-This is written document for lab1. cmput340
+# This is written document for lab1. cmput340
+# author Yiyang Wang
 
-yiyang3 1503849
-
-for exercise 1 : e1.m
-    	       	 e2.m
-		 hi.jpg
-Vectorized code runs faster because it doesnt contains loops, and it has shorter lines.
+## for exercise 1 : 
+* e1.m
+' vectorize the for loop and compare the time '
+' Vectorized code runs faster because it doesnt contains loops, and it has shorter lines.'
+* e2.m
+* hi.jpg
 
     exercise 2: ex2.m
 	     	fwdSubst.m
