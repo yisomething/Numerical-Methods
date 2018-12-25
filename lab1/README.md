@@ -2,11 +2,11 @@
 # author Yiyang Wang
 
 ## exercise 1 : 
-* e1.m <\br>
+* e1.m </br>
 ` vectorize the for loop and compare the time `
 ` Vectorized code runs faster because it doesnt contains loops, and it has shorter lines.`
 
-* e2.m  hi.jpg <\br>
+* e2.m  hi.jpg </br>
 `some basic image processing: gray scale, get user click,`<\br>
 `contrast and brightness images, blur the image`
 
