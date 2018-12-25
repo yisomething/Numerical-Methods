@@ -20,8 +20,8 @@ They are not quite similar.
 
 
 ## for exercise 2:
-* ex2.m
-`using spline function to fit`
+* ex2.m </br>
+`using spline function to fit` </br>
   tumor.jpg 
   tumorContour.jpg
   polinomialContour.jpg
