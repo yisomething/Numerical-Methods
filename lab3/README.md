@@ -1,4 +1,4 @@
-# This is written document for lab3. cmput340
+# lab3
 
 `Yiyang Wang`
 
