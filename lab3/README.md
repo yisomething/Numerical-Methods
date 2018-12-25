@@ -3,7 +3,7 @@
 `Yiyang Wang`
 
 ## for exercise 1 :
-*ex1.m    EllipsePoints.mat
+* ex1.m    EllipsePoints.mat
 ![ex1](ex1.png)
 
 
