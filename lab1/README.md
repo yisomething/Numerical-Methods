@@ -1,5 +1,5 @@
 # This is written document for lab1. 
-`author Yiyang Wang`
+`Yiyang Wang`
 ---
 
 ## exercise 1 : 
@@ -17,14 +17,18 @@ contrast and brightness images, blur the image </br>
 * ex2.m </br>
 fwdSubst.m  bwdSubst.m  elimMat.m  myLU.m  test_ex2.m </br>
 
+using backward,forward subsitution and LU method to solve system 
+
 
 
 ## exercise 3: 
 * ex3a.m
 * ex3b.m
-* ex3c.m
+* ex3c.m . 
 char_c1.mat
 mri_c1.mat
+</br> transfer data into image
+
 		
 		
 ## Q&A
